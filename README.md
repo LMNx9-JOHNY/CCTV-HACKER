@@ -12,7 +12,7 @@ User/pass : cctv-hacker/LMNx9
      pkg install git 
      pip install colorama
      pip install requests
-     git clone https://github.com/LMNx9- JOHNY/CCTV-HACKER
+     git clone https://github.com/LMNx9-JOHNY/CCTV-HACKER
      cd CCTV-HACKER
      python LMNx9-CCTV-2.0.py
 
