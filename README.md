@@ -1,11 +1,11 @@
-# CCTV-HACKER
+# CCTV-HACKER 𝐯 𝟐.𝟎
 Its a tool 🔥 that you can get random cctv ip and access this network 
 ![logo](https://github.com/LMNx9-JOHNY/CCTV-HACKER/blob/main/Screenshot_20240126-233747.png)
 ![logo](https://github.com/LMNx9-JOHNY/CCTV-HACKER/blob/main/Screenshot_20240126-233846.png)
 
 User/pass : cctv-hacker/LMNx9
 
-# ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 : 👇
+# ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐯 𝟐.𝟎 : 👇
 
      rm -rf CCTV-HACKER
      pkg install python
