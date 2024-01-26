@@ -1,11 +1,11 @@
 # CCTV-HACKER
 Its a tool 🔥 that you can get random cctv ip and access this network 
-![logo]()
+![logo](https://github.com/LMNx9-JOHNY/CCTV-HACKER/blob/main/Screenshot_20240126-233747.png)
+![logo](https://github.com/LMNx9-JOHNY/CCTV-HACKER/blob/main/Screenshot_20240126-233846.png)
 
-User : cctv-hacker
-pass : LMNx9
+User/pass : cctv-hacker/LMNx9
 
-# ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐈𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 : 👇
+# ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 : 👇
 
      rm -rf CCTV-HACKER
      pkg install python
@@ -16,4 +16,4 @@ pass : LMNx9
      cd CCTV-HACKER
      python LMNx9-CCTV-2.0.py
 
-# DARK TEAM LMNx9 OFFICIAL 
+# DARK TEAM LMNx9
